@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/top-memoryCard/static/css/main.3ccee0b6.css",
+    "main.js": "/top-memoryCard/static/js/main.5eca09dc.js",
+    "static/media/beto.jpeg": "/top-memoryCard/static/media/beto.dcc880455ec48d1b0b07.jpeg",
+    "static/media/enzo.jpeg": "/top-memoryCard/static/media/enzo.18ab8ed478df65254562.jpeg",
+    "static/media/pinino.jpeg": "/top-memoryCard/static/media/pinino.381b5a4ac330e3a046f9.jpeg",
+    "static/media/leon.jpeg": "/top-memoryCard/static/media/leon.34f60f8b1cdcfc06fb99.jpeg",
+    "static/media/ramon.jpeg": "/top-memoryCard/static/media/ramon.340485de6f3f724ad858.jpeg",
+    "static/media/burro.jpeg": "/top-memoryCard/static/media/burro.5ca5a10565414d7344fa.jpeg",
+    "static/media/labruna.jpeg": "/top-memoryCard/static/media/labruna.4ba0942a11780863e864.jpeg",
+    "static/media/amadeo.jpeg": "/top-memoryCard/static/media/amadeo.a31332acefbef80897a4.jpeg",
+    "static/media/mostaza.jpeg": "/top-memoryCard/static/media/mostaza.f6e767079648f6b5a430.jpeg",
+    "static/media/muñe.jpeg": "/top-memoryCard/static/media/muñe.4e7b23f09d70e85dde1b.jpeg",
+    "index.html": "/top-memoryCard/index.html",
+    "main.3ccee0b6.css.map": "/top-memoryCard/static/css/main.3ccee0b6.css.map",
+    "main.5eca09dc.js.map": "/top-memoryCard/static/js/main.5eca09dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccee0b6.css",
+    "static/js/main.5eca09dc.js"
+  ]
+}
