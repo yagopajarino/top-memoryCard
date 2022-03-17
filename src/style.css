@@ -1,0 +1,60 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 300px;
+  border-radius: 5px;
+}
+
+.tilesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  padding: 1.2rem;
+  background-color: rgb(255 0 0 / 70%);
+  border-radius: 5px;
+  color: white;
+  font-weight: 800;
+}
+
+.tile:hover {
+  box-shadow: 5px 5px 15px 6px #50505052;
+}
+
+span {
+  padding-top: 1rem;
+}
+
+.puntajes {
+  display: flex;
+  justify-content: center;
+}
+
+.score,
+.mejor {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  padding: 1rem;
+}
